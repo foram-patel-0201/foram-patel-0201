@@ -47,7 +47,15 @@
 <a href="https://www.hackerrank.com/foram_talpada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="foram_talpada" height="30" width="40" /></a>
 </p>
 
-<h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
+<h2> My GitHub Stats 
+
+<img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
+<p align="center">
+  <img src = "https://activity-graph.herokuapp.com/graph?username=foram-patel-0201&theme=react-dark&hide_border=true&area=true" width = 800>
+  <img src = "https://github-readme-stats.vercel.app/api?username=foram-patel-0201&show_icons=true&theme=dark&hide_border=true" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=foram-patel-0201&theme=dark&hide_border=true" width = 400>
+  
+ </p></h2>
 
 [![Foram's github stats](https://github-readme-stats.vercel.app/api?username=foram-patel-0201&count_private=true&show_icons=true&theme=nord&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats) &nbsp;
 
