@@ -13,7 +13,7 @@
 
 <h2> About Me <img src = "https://c.tenor.com/PX1doq1mxnYAAAAM/girl-hacker.gif" width = 100px height='50px'></h2>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="55%" align="right" alt="Github" src="https://c.tenor.com/2SeTinGEKNQAAAAd/codelikeagirl.gif" />
 
 
 - 🔭 I’m currently working on Helpful Coding (Android App)
