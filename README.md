@@ -42,7 +42,6 @@
 <a href = 'https://www.twitter.com/fiyupatel'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
 <a href = 'https://www.github.com/foram-patel-0201'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
 <a href="https://www.linkedin.com/in/foram-talpada-9a0686228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="foramtalpada" height="30" width="40" /></a>
-<a href="https://instagram.com/_fiyupatel_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_fiyupatel_" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/foram_talpada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="foram_talpada" height="30" width="40" /></a>
 </p>
 
