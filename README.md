@@ -16,11 +16,11 @@
 <img width="50%" align="right" alt="Github" src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif" />
 
 
-- 🔭 I’m currently working on Helpful Coding (Android App)
+- 🔭 I’m currently working on RunBuddy (Android App)
 
 - 🌱 I’m currently learning Kotlin, Python 
 
-- 👯 I’m looking to collaborate on JAVA based Android App 
+- 👯 I’m looking to collaborate on Kotlin based Android App 
 
 - 💬 Talk to me about JAVA, Firebase, Freelancing Opportunities, Kotlin 
 
