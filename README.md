@@ -16,7 +16,7 @@
 <img width="50%" align="right" alt="Github" src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif" />
 
 
-- 🔭 I’m currently working on RunBuddy (Android App)
+- 🔭 I’m currently working at Amazon 💫
 
 - 🌱 I’m currently learning Kotlin, Python 
 
